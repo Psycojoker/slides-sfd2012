@@ -1,0 +1,206 @@
+title DierenTheater, give a proactive hand to the Belgium government in providing opendata
+author Laurent Peuch
+
+slide I think I'm supposed to present myself
+    Me in a nutshell:
+    \begin{itemize}
+        \item Freesoftware dev
+        \item La Quadrature du Net
+        \item NURPA
+        \item UrLab
+        \item Neutrinet
+        \item Chocolate
+        \item and too many other things
+    \end{itemize}
+
+slide
+    \begin{center}
+    \begin{LARGE}
+    \begin{color}{blue}
+    What?
+    \end{color}
+    \end{LARGE}
+    \end{center}
+    \pause
+    \vspace{3mm}
+    Boring definition: \textit{Dieren Theater is a project to offer to anyone structured and open data extracted from the website of the Belgian parliament (also known as La Chambre or De Kamer).}
+
+slide
+    \begin{center}
+    \begin{LARGE}
+    \begin{color}{blue}
+    Why?
+    \end{color}
+    \end{LARGE}
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    NosDeputes.fr
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    \includegraphics[scale=0.32]{nosdeputes.png}
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    The Political Memory
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    \includegraphics[scale=0.52]{memopol.png}
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    Pippi Longstring
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    \includegraphics[scale=0.24]{pippi.png}
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    Baptiste Coulmont's visualization
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    \includegraphics[scale=0.34]{coulmont.png}
+    \begin{tiny}
+    \begin{color}{blue}
+    Tim (from belaws) has done something similar in Belgium
+    \end{color}
+    \end{tiny}
+    \end{center}
+
+slide
+    \begin{Large}
+    \begin{color}{blue}
+    Then I took a look at was available in Belgium...
+    \end{color}
+    \end{Large}
+
+slide
+    \begin{center}
+    \includegraphics[scale=0.22]{desert.png}
+    \vspace{3mm}
+    \begin{tiny}
+    \begin{color}{blue}
+    Well, nearly...
+    \end{color}
+    \end{tiny}
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    So why?
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    Because I want a NosDeputes.be, a PoliticalMemory.be, empowered citizens, cool dataviz, etc...
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{LARGE}
+    \begin{color}{blue}
+    How?
+    \end{color}
+    \end{LARGE}
+    \end{center}
+
+slide How?
+    When you write those kind of website, you proceed like this:
+    \begin{itemize}
+        \item Get the data
+        \item Build the website with it
+        \item Communication/legal stuff
+    \end{itemize}
+    \vspace{3mm}
+    \begin{color}{white}Like that, everyone we'll be able to do the rest\end{color}
+
+slide How?
+    When you write those kind of website, you proceed like this:
+    \begin{itemize}
+        \item Get the data \begin{color}{blue}$<-$ I'm doing this\end{color}
+        \item Build the website with it
+        \item Communication/legal stuff
+    \end{itemize}
+    \vspace{3mm}
+    \begin{color}{blue}Like that, everyone we'll be able to work on the rest\end{color}
+
+slide
+    \begin{center}
+    \begin{LARGE}
+    \begin{color}{blue}
+    What?
+    \end{color}
+    \end{LARGE}
+    \end{center}
+
+slide What?
+    Current documents:
+    \begin{itemize}
+        \item Deputies
+        \item Commissions
+        \item Commissions Membership (of deputies)
+        \item Law projects/texts
+        \item Written questions
+        \item Annual reports
+    \end{itemize}
+    \pause
+    And:
+    \begin{itemize}
+        \item In "alpha"
+        \item API that provides everything in json/xml/yaml (also json dumps)
+        \item A (not yet really working) history of modifications of documents
+        \item A scheduler for scraping activities
+    \end{itemize}
+
+slide Futur
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    MOAR documents!
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    And a fixed history of modifications of documents
+    \end{center}
+    \vspace{3mm}
+    \vspace{3mm}
+    \vspace{3mm}
+    Important detail: code is not limited to (lachambre$|$dekamer).be and could be easily extends to senate\textbackslash ?.be or any other website
+
+slide Contribute!
+    \begin{itemize}
+        \item User it (the datas)! (I'm really looking for users)
+        \item Code for it! (python/django-nonrel/mongodb/beautifulsoup)
+        \item Spread the love!
+    \end{itemize}
+
+slide Details
+    \begin{itemize}
+        \item \url{http://www.dierentheater.be}
+        \item \url{https://github.com/Psycojoker/dierentheater}
+        \item Me: \href{mailto:brain@worlddomination.be}{brain@worlddomination.be}
+        \item Twitter: \href{https://twitter.com/brabram}{@brabram}
+    \end{itemize}
+    \vspace{3mm}
+    \begin{center}
+    Thanks!
+    \vspace{3mm}
+    Questions?
+    \end{center}

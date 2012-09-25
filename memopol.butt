@@ -1,0 +1,148 @@
+title Hack the democracy with the Political Memory of la Quadrature du Net
+author Laurent Peuch
+
+slide I think I'm supposed to present myself
+    Me in a nutshell:
+    \begin{itemize}
+        \item Freesoftware dev
+        \item La Quadrature du Net
+        \item NURPA
+        \item UrLab
+        \item Neutrinet
+        \item Chocolate
+        \item and too many other things
+    \end{itemize}
+
+slide Introduction
+    The Political Memory has 2 sides:
+    \begin{itemize}
+        \item Citizen
+        \item Hacktivist
+    \end{itemize}
+
+slide
+    \begin{center}
+    \begin{LARGE}
+    \begin{color}{blue}
+    Citizen side or why is it interesting for us?
+    \end{color}
+    \end{LARGE}
+    \end{center}
+
+slide Citizen
+    The Political Memory tries, for every elected representatives, to:
+    \begin{itemize}
+        \item be a political memory of their actions (on a certain subject)
+        \item make it easier for citizens to understand how they are behaving
+        \item increase the political cost of their decisions
+    \end{itemize}
+
+slide Citizen
+    It does that by:
+    \begin{itemize}
+        \item tracking the vote of those representatives
+        \item recording official positions taken by those representatives
+    \end{itemize}
+
+slide Citizen
+    The vote part is the interesting one:
+    \begin{itemize}
+        \item voting recommendation to representatives (eg: by lqdn: vote against ACTA)
+        \item +
+        \item list of representatives with their actual votes
+        \item =
+        \item score on how well those recommendations have been followed
+    \end{itemize}
+    \vspace{3mm}
+    If your opinion on defending Internet == LQDN's opinion $->$ you can see who is representing you the best on defending Internet
+
+slide Citizen
+    World Domination plan:
+    \begin{itemize}
+        \item get every citizen groups to use a political memory
+        \item build an aggregator that allow everyone to see who is representing him the best
+        \item build feeds of informations with this aggregator so everyone will be aware of what is happening
+        \item also allowing everyone to get back into politics by decomplexifying it
+        \item ...
+        \item PROFIT
+    \end{itemize}
+
+slide Citizen
+    \begin{itemize}
+        \item Can you tell how well your representatives are actually representing you on subject X?
+        \item Can you tell how they have voted?
+        \item Can you tell if their public positions are coherent with their behavior?
+        \item Do you have any way of being informed about that?
+    \end{itemize}
+    \vspace{3mm}
+    This has to change.
+
+slide Citizen
+    We are trying to do this:
+    \begin{itemize}
+        \item on the European Parliament
+        \item a bit on the French Parliament
+        \item on Fundamental Freedoms on the Internet
+        \item on Net Neutrality
+    \end{itemize}
+
+slide
+    \begin{center}
+    \begin{LARGE}
+    \begin{color}{blue}
+    Hacktivist
+    \end{color}
+    \end{LARGE}
+    \end{center}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    The Political Memory is our main campaign tool.
+    \end{color}
+    \end{Large}
+    \vspace{3mm}
+    \begin{itemize}
+        \item We act a lot at the European Parliament level with direct contact with eurodeputies
+        \item We need informations about them to be able to act: their committees, office floors, phone \# etc...
+        \item Vote tracking \&\& public opinions are also very valuable informations
+    \end{itemize}
+    \end{center}
+
+slide Hacktivist
+    The Political Memory is build around that idea:
+    \begin{itemize}
+        \item A lot of listings: by committees, by floors, by total score, 
+        \item Filtering options of listings
+        \item CSV export of listings
+        \item Advanced search (WIP)
+        \item Datavisualizations, especially on votes results
+    \end{itemize}
+
+slide
+    \begin{center}
+    \begin{Large}
+    \begin{color}{blue}
+    Don't forget our world domination plan!
+    \end{color}
+    \end{Large}
+    \end{center}
+
+slides Details
+    \begin{itemize}
+        \item (\textit{Memopol} is the nickname of the Political Memory)
+        \item \url{https://memopol.lqdn.fr}
+        \item Code: \url{https://gitorious.org/memopol2-0}
+        \item Licence: aGPLv3+
+        \item We are looking for devs! It's in \textit{python}/\textit{django}
+        \item IRC: \href{irc://irc.freenode.net\#lqdn-memopol}{irc.freenode.net\#lqdn-memopol}
+        \item Me: \href{mail:brain@worlddomination.be}{brain@worlddomination}
+        \item Twitter: \href{https://twitter.com/brabram}{@brabram}
+    \end{itemize}
+    \vspace{3mm}
+    \begin{center}
+    Thanks!
+    \vspace{3mm}
+    Questions?
+    \end{center}
